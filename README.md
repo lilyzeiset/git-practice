@@ -12,3 +12,5 @@ Switches branch
 ## git merge <branch-to-merge>
 Merges the latest commits from branch-to-merge onto current branch
 i.e. to merge from dev -> main, be on main & git merge dev
+
+## Lily <3
